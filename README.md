@@ -7,7 +7,7 @@ eXolnet's Homebrew tap for custom Casks.
 ## Installation
 
 ```bash
-brew tap eXolnet/homebrew-cask
+brew tap exolnet/homebrew-cask
 ```
 
 ## Usage
