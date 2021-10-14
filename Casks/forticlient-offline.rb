@@ -1,8 +1,8 @@
 cask 'forticlient-offline' do
-  version '6.4.2'
-  sha256 'ba6836d1eefc6f8f570a3ea44ff87f126d8cb935c3269ebe00ec64ba9014db85'
+  version '6.4.6'
+  sha256 'f3b486d87fa565cf03fb87b00a4dccf110fe50b99401b95c585fc87a880923d8'
 
-  url 'https://files.exolnet.com/forticlient/FortiClientVPNSetup_6.4.2.1305_macosx.dmg'
+  url 'https://files.exolnet.com/forticlient/FortiClientVPNSetup_6.4.6.1378_macosx.dmg'
   name 'FortiClient'
   homepage 'https://www.forticlient.com/'
 
