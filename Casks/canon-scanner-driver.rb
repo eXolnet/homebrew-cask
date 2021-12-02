@@ -1,8 +1,8 @@
 cask 'canon-scanner-driver' do
-  version '2.15.6'
-  sha256 '5efcaeccd8b1f1103d2bb966199a47fc50f0116996d987bd51178d61474c2151'
+  version '2.15.9'
+  sha256 'ff5d80d992a0f8b003104ffdc1bdf36bfe8bce0aa49cce77b27cdc9a95a5776c'
 
-  url 'https://gdlp01.c-wss.com/gds/9/0100010619/06/mac-scan-v2156-00.dmg'
+  url 'https://gdlp01.c-wss.com/gds/0/0100010990/04/mac-scan-v2159-00.dmg'
   name 'Canon Scanner Driver & Utilities'
   homepage 'http://www.canon.ca/en/Contact-Support/Consumer/Downloads'
 
