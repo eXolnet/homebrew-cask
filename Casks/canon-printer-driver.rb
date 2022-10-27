@@ -4,7 +4,7 @@ cask 'canon-printer-driver' do
 
   url 'https://gdlp01.c-wss.com/gds/4/0100011244/02/mac-mf-v10118-00.dmg'
   name 'Canon MF Printer Driver & Utilities'
-  homepage 'http://www.canon.ca/en/Contact-Support/Consumer/Downloads'
+  homepage 'https://canoncanada.custhelp.com/app/home'
 
   pkg 'MF_Printer_Installer.pkg'
 end

@@ -4,7 +4,7 @@ cask 'canon-scanner-driver' do
 
   url 'https://gdlp01.c-wss.com/gds/0/0100010990/04/mac-scan-v2159-00.dmg'
   name 'Canon Scanner Driver & Utilities'
-  homepage 'http://www.canon.ca/en/Contact-Support/Consumer/Downloads'
+  homepage 'https://canoncanada.custhelp.com/app/home'
 
   pkg 'Canon_ScanGear_MF.pkg'
 end
