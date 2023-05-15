@@ -1,6 +1,6 @@
 cask '3cx-exolnet' do
-  version '18.11.1213'
-  sha256 '5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290'
+  version '18.12.425'
+  sha256 'a90c93e8f47ebfc86f6764cbcdf0c2ad52fefd76e1575d99d41c749101ebd1de'
 
   url 'https://exolnet.clients.alt380.ca:4643/webclient/api/app/mac'
   name '3CX Desktop App'
