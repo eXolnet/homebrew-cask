@@ -6,5 +6,10 @@ cask '3cx-exolnet' do
   name '3CX Desktop App'
   homepage 'https://exolnet.clients.alt380.ca:4643/webclient/'
 
+  livecheck do
+    url :url
+    strategy :header_match
+  end
+
   app '3CX Desktop App.app'
 end
